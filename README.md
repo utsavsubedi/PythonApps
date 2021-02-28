@@ -1,2 +1,2 @@
-# PythonApps
-Desktop Apps Created with PYQT
+# PythonApp
+A text editor Created with PYQT
